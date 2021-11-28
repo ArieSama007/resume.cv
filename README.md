@@ -1,4 +1,9 @@
 
+theme: jekyll-theme-minimal
+title: 💻✒️📄🌟
+description: Carolyn Stransky's CV
+
+
 # VK BHARATH VEL
 #### Address: No 111 ‘Rajavel’ 4th BCross 1st GMain KasturiNagar,Bangalore-560043 |Email ID: techarie9@gmail.com |Mobile No: +91 8660431901
 
