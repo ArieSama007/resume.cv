@@ -76,7 +76,7 @@ Date of Birth :   22/09/2000
 Gender :M
 Nationality :Indian
 Marital Status :Single
-Permanent Address :No 111 ‘RAJAVEL’ 4th Bcross 1st Gmain Kasturinagar Bamgalore
+Permanent Address :No 111 ‘RAJAVEL’ 4th Bcross 1st Gmain Kasturinagar Bangalore
 Languages Known :English,Kannada,Tamil,Hindi
 Hobbies :Photography, Trekking,Video Editing,Blogging
 
