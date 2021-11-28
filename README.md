@@ -1,6 +1,6 @@
 
 # VK BHARATH VEL
-###### Address: No 111 ‘Rajavel’ 4th BCross 1st GMain KasturiNagar,Bangalore-560043 |Email ID: techarie9@gmail.com |Mobile No: +91 8660431901
+#### Address: No 111 ‘Rajavel’ 4th BCross 1st GMain KasturiNagar,Bangalore-560043 |Email ID: techarie9@gmail.com |Mobile No: +91 8660431901
 
 
 
@@ -72,13 +72,13 @@ successfully
 
 ### PERSONAL DETAILS
 
-Date of Birth :   22/09/2000
-Gender :M
-Nationality :Indian
-Marital Status :Single
-Permanent Address :No 111 ‘RAJAVEL’ 4th Bcross 1st Gmain Kasturinagar Bangalore
-Languages Known :English,Kannada,Tamil,Hindi
-Hobbies :Photography, Trekking,Video Editing,Blogging
+-Date of Birth :   22/09/2000
+-Gender :M
+-Nationality :Indian
+-Marital Status :Single
+-Permanent Address :No 111 ‘RAJAVEL’ 4th Bcross 1st Gmain Kasturinagar Bangalore
+-Languages Known :English,Kannada,Tamil,Hindi
+-Hobbies :Photography, Trekking,Video Editing,Blogging
 
 
 
